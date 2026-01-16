@@ -18,5 +18,4 @@ I work on business, operations, and product-focused data analysis using SQL, Pyt
 - Customer Segmentation (Gym / Retail)
 - Capstone Client Analytics Project
 
-📄 Resume: [Link]
-🔗 LinkedIn: [Link]
+🔗 LinkedIn: [Link](https://www.linkedin.com/in/amey-sawant-276851218/)]
